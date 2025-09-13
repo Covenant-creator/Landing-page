@@ -1,4 +1,4 @@
-# Simple Login Page
+# Cove Troupe
 It is a demo page for loggin in or signing up.
 
 ## Features
