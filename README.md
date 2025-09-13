@@ -4,9 +4,11 @@ It is a demo page for loggin in or signing up.
 ## Features
 * **User Login:**The page allows user to login with a  Username and a valid Password.
 * **Password Input:**The password field is obscured for security.
+* **Email input:**The sign-up page allows users to input their Email credentials
+* **Confirm Password:**The sign-up page also consist of a confirm password input that allows users to enter their password again to confirm it before signing up to tyhe page.
 
 ## Known Issues
-The signup link isn't functional yet.
+The signup link and Login link aren't functional yet.
 
 ## Technologies Used
 * **HTML:**Used for the structure of the webpage ,like header,footer and main tags.
